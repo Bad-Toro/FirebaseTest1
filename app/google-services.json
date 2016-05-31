@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "426888571219",
+    "firebase_url": "https://my-fb-1.firebaseio.com",
+    "project_id": "my-fb-1",
+    "storage_bucket": "my-fb-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426888571219:android:e1e3644edb04ddf8",
+        "android_client_info": {
+          "package_name": "com.ftpha.apps.fb1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426888571219-jghism16tm1mp17j9pmsghck3t92mhk0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDK3_gYX1oS6x3z3Xo3CHvcm6Ypq9OmcQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
